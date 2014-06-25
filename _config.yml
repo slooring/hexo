@@ -3,7 +3,7 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: 南风
+title: 南风's BLOG
 subtitle: 注意力不集中&懒病患者
 description: cc's blog
 author: slooring
@@ -81,7 +81,7 @@ disqus_shortname:
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: pacman
+theme: jacman
 exclude_generator:
 
 # Deployment
